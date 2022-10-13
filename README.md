@@ -114,6 +114,8 @@ plt.legend()
 plt.show()
 ```
 
+<br><br><br><br><br><br><br><br><br>
+
 ## OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
